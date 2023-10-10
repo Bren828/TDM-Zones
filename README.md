@@ -5,6 +5,8 @@ Gaming tdm mod for samp
 The essence of the game is as follows: There are two teams that battle against each other.\
 At the start of the match, you are given the opportunity to purchase suitable weapons and armor.
 
+**Version from 1.01 (05.23.20)**
+
 #### What is available
 * Registration
 * Team and character selection
