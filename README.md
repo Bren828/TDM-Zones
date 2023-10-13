@@ -32,6 +32,7 @@ Russian language**
 * Mercenary system for specific players
     
 ![Crosshair](https://i.imgur.com/4DuunTR.png)
+[More](https://imgur.com/a/IvERrES)
 
 # TDM-Zones (2017)
 
@@ -41,7 +42,7 @@ Russian language**
 В начале матча вам предоставляется возможность приобрести подходящее оружие и броню.
 
 **Версия v1.0 от (12.03.2017)\
-Версия [v1.01](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.01.txt)  от (23.05.2020)\
+Версия [v1.01](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.01.txt) от (23.05.2020)\
 Версия [v1.1](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.1.txt) от (13.10.2023)**
 
 #### Что доступно
@@ -65,3 +66,5 @@ Russian language**
 * Система банд с 13 рангами
 * Система наемников для конкретных игроков
 
+![Crosshair](https://i.imgur.com/4DuunTR.png)
+[Больше](https://imgur.com/a/IvERrES)
