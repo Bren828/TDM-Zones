@@ -1,0 +1,20 @@
+- Исправлено создание всех TD.
+- Исправлена проблема с вводом пароля.
+- Частично переписано меню закупок.
+- Частично приведен код в порядок.
+- Исправлено повторное прохождение помощи.
+- Изменены команды на более узнаваемые.
+- Удалена поддержка клиента 0.3.DL.
+- Удален "античит".
+- Удалена "защита от флуда".
+
+
+- Fixed creation of all TextDraws.
+- Fixed a problem with entering a password.
+- The purchasing menu has been partially rewritten.
+- The code has been partially tidied up.
+- Fixed repeated passage of help.
+- Changed commands to more recognizable ones.
+- Removed support for client 0.3.DL
+- Removed "anti-cheat".
+- Removed "flood protection".

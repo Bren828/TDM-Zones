@@ -1,8 +1,11 @@
 #include <a_samp>
 #include <streamer>
+#include <crashdetect>
 
 public OnFilterScriptInit()
 {
+	DisableCrashDetectLongCall();
+	
 	/*new gdg;
     gdg = CreateObject(3352, -446.48560, 1484.17578, 33.42250, 3.24000, 87.60000, 95.42000);
     SetObjectMaterialText(gdg, "L", 0, 140, "Wingdings", 150, 0, -65536, -1, 1);*/
