@@ -5,8 +5,9 @@ Gaming tdm mod for samp
 The essence of the game is as follows: There are two teams that battle against each other.\
 At the start of the match, you are given the opportunity to purchase suitable weapons and armor.
 
-**Version v1.0 from (03.12.17)\
-Version v1.01 from (05.23.20)\
+**Version v1.0 from (03.12.2017)\
+Version [v1.01](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.01.txt) from (05.23.2020)\
+Version [v1.1](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.1.txt) from (10.13.2023)\
 Russian language**
 
 #### What is available
@@ -39,8 +40,9 @@ Russian language**
 Суть игры такова: две команды сражаются друг против друга.
 В начале матча вам предоставляется возможность приобрести подходящее оружие и броню.
 
-**Версия v1.0 от (12.03.17)\
-Версия v1.01 от (23.05.20)**
+**Версия v1.0 от (12.03.2017)\
+Версия [v1.01](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.01.txt)  от (23.05.2020)\
+Версия [v1.1](https://github.com/Bren828/TDM-Zones/blob/main/Update%201.1.txt) от (13.10.2023)**
 
 #### Что доступно
 * Постановка на учет
