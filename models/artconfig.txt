@@ -1,1 +1,0 @@
-AddSimpleModel(-1, 19166, -2000, "test.dff", "txdbar.txd");
